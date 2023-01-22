@@ -1,1 +1,2 @@
-hi i am smriti
+Learning pull request
+Hi i am smriti
